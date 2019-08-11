@@ -37,7 +37,7 @@
             <li>return /^\d+$/.test(data.params.id);</li>
             <li>
               Token for git:
-              205839fdc1d7d7a31dea3215b283c67249fb8be7
+              
             </li>
             <li>Learned about nuxt-child for nested content</li>
           </ul>
